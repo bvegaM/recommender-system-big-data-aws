@@ -1,4 +1,4 @@
-# Development of a recommendation system in aws, for a Big Data environment
+# Development of a recommendation system in AWS, for a Big Data environment
 
 ![python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
