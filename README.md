@@ -16,4 +16,16 @@
 
 # Solution
 
-# Evaluation
+  ### infraestructure:
+  
+  ### Steps:
+  
+  * #### Step 1: Data Gathering
+  
+  * #### Step 2: Data Wrangling
+  
+  * #### Step 3: Train Model
+  
+  * #### Step 4: Evaluate Model
+  
+# Results
